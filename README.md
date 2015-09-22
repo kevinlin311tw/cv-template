@@ -1,3 +1,3 @@
 # cv_template
 
-_FYI: **This is my CV LaTeX template!!!!!**_
+_Hello world! This is my CV LaTeX template!!_
